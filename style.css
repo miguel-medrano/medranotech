@@ -1,0 +1,53 @@
+/*****************************************
+GENERAL
+******************************************/
+body{
+    background-color: lightgrey;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+/*****************************************
+HEADING
+******************************************/
+header, footer {
+    text-align: center;
+}
+
+
+/******************************************
+MAIN CONTENT
+*******************************************/
+section p {
+    width: 45%;
+    margin: 2.5%;
+}
+
+
+
+/******************************************
+FOOTER
+*******************************************/
+footer {
+    text-align: center;
+}
+
+
+
+/******************************************
+COLORS
+*******************************************/
+body {
+    background-color: lightgray;
+}
+
+header, footer {
+    background-color: black;
+    color: azure;
+}
+
+nav {
+    background-color: #666666;
+}
+
