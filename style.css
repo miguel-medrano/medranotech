@@ -82,20 +82,26 @@ section {
 
 /*************RESUME PAGE******************/
 #resume {
-    height: 700em;
+    display: block;
+    width: 95%;
+    margin: 0 auto;
+    height: 1150px;
 }
 
 /*************CONTACT PAGE*****************/
-#info ul{
+
+
+
+div ul{
     list-style: none;
     margin: 0;
     padding: 0;
     font-size: 0.9em;
 }
 
-#info ul li {
+div ul li {
     display: block;
-    min-height: 20px;
+    min-height: 25px;
     background-repeat: no-repeat;
     background-size: 25px 25px;
     padding: 0 0 0 30px;
@@ -110,6 +116,14 @@ section {
     background-image: url('phone.png');
 }
 
+#facebook {
+    background-image: url('fb_logo.png');
+}
+
+#linkedin {
+    background-image: url('in_logo.png');
+}
+
 /******************************************
 FOOTER
 *******************************************/
@@ -118,7 +132,9 @@ footer {
     padding: 1em;
 }
 
-
+#github_logo {
+    max-height: 30px;
+}
 
 
 /******************************************
