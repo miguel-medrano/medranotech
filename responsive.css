@@ -1,0 +1,74 @@
+@media screen and (min-width: 710px) {
+    /************HEADER***********/
+
+    header h1 {
+        border-top: none;
+        font-size: 2em;
+    }
+
+    header h2 {
+        border-bottom: none;
+        font-size: 1.125em;
+    }
+
+    header {
+        float:left;
+        width: 100%;
+        margin-bottom: 4em;
+        border-bottom: 1em solid #666;
+    }
+
+    .main {
+        clear: both;
+    }
+
+    #logo {
+        float: left;
+        margin-left: 5%;
+        text-align: left;
+        width: 45%;
+    }
+
+    nav {
+        background: none;
+        float: right;
+        font-size: 1.125em;
+        margin-right: 5%;
+        margin-top: 5%;
+        text-align: right;
+        width: 45%;
+    }
+
+    nav ul {
+        margin: 0;
+    }
+
+    /************HOME*************/
+    #home_column_1 {
+        width: 50%;
+        float: right;
+    }
+
+    #home_column_1 img {
+        align: center;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    #home_column_2 {
+        float: left;
+        width: 50%;
+    }
+
+    /***********CONTACT***********/
+    #contact {
+        margin-bottom: 15em;
+    }
+    #contact div {
+        float: left;
+        width: 33.3333%;
+        padding: 0 3em;
+    }
+
+
+}
