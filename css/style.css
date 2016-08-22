@@ -130,19 +130,19 @@ section {
 
 
 #email {
-    background-image: url('mail.png');
+    background-image: url('../img/mail.png');
 }
 
 #phone {
-    background-image: url('phone.png');
+    background-image: url('../img/phone.png');
 }
 
 #facebook {
-    background-image: url('fb_logo.png');
+    background-image: url('../img/fb_logo.png');
 }
 
 #linkedin {
-    background-image: url('in_logo.png');
+    background-image: url('../img/in_logo.png');
 }
 
 iframe {
